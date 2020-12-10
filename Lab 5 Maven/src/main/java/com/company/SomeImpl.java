@@ -1,12 +1,9 @@
 package com.company;
-
+/**Example of class , implements SomeInterface.**/
 public class SomeImpl implements SomeInterface {
-    private int name;
     @Override
     public void doSomething() {
         System.out.println("A");
     }
-    public SomeImpl(int name){
-        this.name = name;
-    };
+    public SomeImpl(){}
 }

@@ -1,6 +1,7 @@
 package com.company;
-
+/**Example of class , implements SomeOtherInterface.**/
 public class SODoer implements SomeOtherInterface {
+    @Override
     public void doSomeOther()
     {
         System.out.println("C");
@@ -9,5 +10,5 @@ public class SODoer implements SomeOtherInterface {
     {
         System.out.println("CAC");
     }
-    SODoer(){};
+    public SODoer(){}
 }

@@ -1,0 +1,9 @@
+com\company\AutoInjectable.class
+com\company\SomeImpl.class
+com\company\SomeOtherInterface.class
+com\company\SODoer.class
+com\company\Main.class
+com\company\SomeBean.class
+com\company\Injector.class
+com\company\OtherImpl.class
+com\company\SomeInterface.class
